@@ -1,5 +1,5 @@
 !function(){const ue=({buttonText:i,buttonClasses:e,buttonColor:t,buttonTextColor:a})=>`<button class="z-[999999999999] hidden fixed ${e.join(" ")} flex h-16 origin-center bg-red-50 transform cursor-pointer items-center
-rounded-full py-4 px-6 text-base outline-none drop-shadow-md transition focus:outline-none fo
+rounded-full py-4 px-10 text-base outline-none drop-shadow-md transition focus:outline-none fo
 cus:ring-4 focus:ring-gray-600 focus:ring-opacity-50 active:scale-95" 
 style="
   /* POSITION ADJUSTMENT - change these values as needed */
